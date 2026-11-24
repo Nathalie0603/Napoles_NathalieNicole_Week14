@@ -15,5 +15,5 @@ Open `lib/main.dart` and switch the active `home:` route inside `MaterialApp`:
 
 - To preview **Screen 2 (Home Page)**:
   ```dart
-// home: const LoginScreen(),
-home: const HomeScreen(),
+  // home: const LoginScreen(),
+  home: const HomeScreen(),
